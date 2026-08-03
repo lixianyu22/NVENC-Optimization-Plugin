@@ -37,4 +37,4 @@ https://evaluation-results.visionular.com/external/260729/video_compare_3840x108
 
 ### 联系我们
 - 当前SDK还在最后测试阶段，因此在github上暂时未提供。
-- 如需试用/技术评估，请联系 xxx
+- 如需免费试用/技术评估，请联系mkt@visionular.com	
